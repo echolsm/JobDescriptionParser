@@ -1,0 +1,27 @@
+variable,type,data_set
+Unnamed:0,float64,observations
+Req ID,object,observations
+Req Title,object,observations
+Job Requistion Status,object,observations
+Job Description,object,observations
+Country,object,observations
+Date Requisition Opened,object,observations
+offer completed/accepted date,object,observations
+Candidate ID,object,observations
+Location,object,observations
+Division,object,observations
+Function,object,observations
+Managerial Role,object,observations
+Band,object,observations
+Job Category,object,observations
+Job Description Cleaned,object,observations
+experience,object,observations
+platforms,object,observations
+database,object,observations
+programming,object,observations
+machinelearning,object,observations
+universities,object,observations
+languages,object,observations
+hobbies,object,observations
+open-source,object,observations
+certifications,object,observations
